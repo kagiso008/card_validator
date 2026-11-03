@@ -1,11 +1,15 @@
 # card_validator
+## Screenshots
 
-<p>
-  <img src="docs/screenshots/wallet-light.png" width="200" alt="Wallet, light mode">
-  <img src="docs/screenshots/add-card-light.png" width="200" alt="Add card, light mode">
-  <img src="docs/screenshots/banned-light.png" width="200" alt="Banned countries, light mode">
-  <img src="docs/screenshots/wallet-dark.png" width="200" alt="Wallet, dark mode">
-</p>
+### Wallet
+![Wallet Screen light](docs/screenshots/wallet_light_mode.png)
+![Wallet Screen dark](docs/screenshots/wallet_dark_mode.jpeg)
+
+### Add Card
+![Add Card Screen](docs/screenshots/add_card.png)
+
+### Banned Countries
+![Banned Countries Screen](docs/screenshots/banned_countries.png)
 
 Features
 
